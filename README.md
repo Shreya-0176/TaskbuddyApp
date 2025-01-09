@@ -35,4 +35,4 @@ CSS: For styling the application.
 
 🚀 How to Run the Project
 Clone the repository:
-git clone https://github.com/Shreya-0176/taskbuddy-app.git
+git clone https://github.com/Shreya-0176/TaskbuddyApp-app.git
